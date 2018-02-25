@@ -1,1 +1,1 @@
-# ElectronenSpiel
+# ParticleGame
